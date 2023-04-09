@@ -2732,7 +2732,7 @@ blockquote {
     .header {
         position: absolute;
         width: 100%;
-        max-width: 330px;
+        max-width: 100%;
         top: 0;
         right: 0;
         bottom: 0;
