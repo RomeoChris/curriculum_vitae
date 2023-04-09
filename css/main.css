@@ -2761,7 +2761,7 @@ blockquote {
         margin-top: 30px
     }
 
-    .header .info-list,
+    /* .header .info-list, */
     .header-lng {
         float: left
     }
